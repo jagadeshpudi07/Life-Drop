@@ -18,9 +18,10 @@
 
 ### 📦 Installation & Setup
 1. **Clone the repository**: `git clone https://github.com/your-username/life-drop.git`
-2. **Install dependencies**: `npm install`
-3. **Environment Setup**: Create a `.env.local` file with your `NEXT_PUBLIC_SUPABASE_URL` and `NEXT_PUBLIC_SUPABASE_ANON_KEY`.
-4. **Run Dev Server**: `npm run dev`
+2. **Install pnpm globally** (if you don't have it): `npm install -g pnpm`
+3. **Install dependencies**: `pnpm install`
+4. **Environment Setup**: Create a `.env.local` file with your `NEXT_PUBLIC_SUPABASE_URL` and `NEXT_PUBLIC_SUPABASE_ANON_KEY`.
+5. **Run Dev Server**: `pnpm dev`
 
 ---
 
